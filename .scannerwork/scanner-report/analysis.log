@@ -1,0 +1,34 @@
+SonarQube plugins:
+  - Python Code Quality and Security 3.8.0.8883 (python)
+  - Go Code Quality and Security 1.8.3.2219 (go)
+  - JaCoCo 1.1.1.1157 (jacoco)
+  - Kotlin Code Quality and Security 2.7.0.948 (kotlin)
+  - IaC Code Quality and Security 1.4.0.1294 (iac)
+  - JavaScript/TypeScript Code Quality and Security 8.6.0.16913 (javascript)
+  - Ruby Code Quality and Security 1.8.3.2219 (ruby)
+  - Scala Code Quality and Security 1.8.3.2219 (sonarscala)
+  - C# Code Quality and Security 8.32.0.39516 (csharp)
+  - Java Code Quality and Security 7.5.0.28054 (java)
+  - HTML Code Quality and Security 3.4.0.2754 (web)
+  - Flex Code Quality and Security 2.6.2.2641 (flex)
+  - XML Code Quality and Security 2.4.0.3273 (xml)
+  - PHP Code Quality and Security 3.21.2.8292 (php)
+  - VB.NET Code Quality and Security 8.32.0.39516 (vbnet)
+  - Configuration detection fot Code Quality and Security 1.1.0.185 (config)
+Global server settings:
+  - sonar.core.id=BF41A1F2-AX2MI4jXFgSAaHmtaG9y
+  - sonar.core.startTime=2021-12-29T19:57:25-0600
+  - sonar.forceAuthentication=true
+Project server settings:
+Project scanner properties:
+  - sonar.host.url=http://localhost:9000
+  - sonar.java.binaries=bin
+  - sonar.login=******
+  - sonar.projectBaseDir=/home/eduardo/eclipse-workspace/fractals
+  - sonar.projectKey=fractals
+  - sonar.scanner.app=ScannerCLI
+  - sonar.scanner.appVersion=4.6.2.2472
+  - sonar.sourceEncoding=UTF-8
+  - sonar.sources=src
+  - sonar.verbose=true
+  - sonar.working.directory=/home/eduardo/eclipse-workspace/fractals/.scannerwork

@@ -1,0 +1,6 @@
+projectKey=fractals
+serverUrl=http://localhost:9000
+serverVersion=9.2.1.49989
+dashboardUrl=http://localhost:9000/dashboard?id=fractals
+ceTaskId=AX4N9xfsdTGiTNMUcKvi
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX4N9xfsdTGiTNMUcKvi
